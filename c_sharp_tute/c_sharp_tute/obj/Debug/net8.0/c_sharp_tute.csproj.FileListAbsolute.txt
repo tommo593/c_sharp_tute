@@ -1,0 +1,14 @@
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\bin\Debug\net8.0\c_sharp_tute.exe
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\bin\Debug\net8.0\c_sharp_tute.deps.json
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\bin\Debug\net8.0\c_sharp_tute.runtimeconfig.json
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\bin\Debug\net8.0\c_sharp_tute.dll
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\bin\Debug\net8.0\c_sharp_tute.pdb
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.AssemblyInfoInputs.cache
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.AssemblyInfo.cs
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.csproj.CoreCompileInputs.cache
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.dll
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\refint\c_sharp_tute.dll
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.pdb
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\c_sharp_tute.genruntimeconfig.cache
+C:\Users\Tommo\Documents\developments\c_sharp_tute\c_sharp_tute\obj\Debug\net8.0\ref\c_sharp_tute.dll
